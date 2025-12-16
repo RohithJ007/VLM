@@ -1,0 +1,1 @@
+cd "c:\Mini QWEN\pc_client\pc_client\web_app"; & "c:\Mini QWEN\venv\Scripts\python.exe" app.py
